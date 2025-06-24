@@ -6,6 +6,44 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 85.09 33.02)
+		(size 31.75 18.415)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5301a184-c4b6-46e1-9751-89e87920b03a")
+		(property "Sheetname" "RX_739"
+			(at 85.09 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RX_739.kicad_sch"
+			(at 85.09 52.0196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "N3B_SDR_VUSHF_Transceiver"
+				(path "/2582416d-5e31-4efb-9478-80d896bd2c9a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 44.45 33.02)
 		(size 30.48 17.78)
 		(fields_autoplaced yes)
@@ -39,6 +77,44 @@
 			(project "N3B_SDR_VUSHF_Transceiver"
 				(path "/2582416d-5e31-4efb-9478-80d896bd2c9a"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 33.655)
+		(size 39.37 18.415)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cf465eeb-107f-46fa-bd92-bcabbbbc7f22")
+		(property "Sheetname" "Display_Unit"
+			(at 132.08 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display_unit.kicad_sch"
+			(at 132.08 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "N3B_SDR_VUSHF_Transceiver"
+				(path "/2582416d-5e31-4efb-9478-80d896bd2c9a"
+					(page "4")
 				)
 			)
 		)

@@ -582,6 +582,14 @@
     [
       "83f7ce8d-cd12-436c-bfde-dbb74cd375de",
       "TX_2400"
+    ],
+    [
+      "5301a184-c4b6-46e1-9751-89e87920b03a",
+      "RX_739"
+    ],
+    [
+      "cf465eeb-107f-46fa-bd92-bcabbbbc7f22",
+      "Display_Unit"
     ]
   ],
   "text_variables": {}
